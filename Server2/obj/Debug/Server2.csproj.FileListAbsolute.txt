@@ -1,0 +1,16 @@
+C:\Users\student.LAN\source\repos\Laba\Server2\bin\Debug\Server2.exe.config
+C:\Users\student.LAN\source\repos\Laba\Server2\bin\Debug\Server2.exe
+C:\Users\student.LAN\source\repos\Laba\Server2\bin\Debug\Server2.pdb
+C:\Users\student.LAN\source\repos\Laba\Server2\bin\Debug\EntityFramework.dll
+C:\Users\student.LAN\source\repos\Laba\Server2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student.LAN\source\repos\Laba\Server2\bin\Debug\EntityFramework.xml
+C:\Users\student.LAN\source\repos\Laba\Server2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student.LAN\source\repos\Laba\Server2\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\student.LAN\source\repos\Laba\Server2\obj\Debug\Server2.csprojAssemblyReference.cache
+C:\Users\student.LAN\source\repos\Laba\Server2\obj\Debug\Server2.csproj.CoreCompileInputs.cache
+C:\Users\student.LAN\source\repos\Laba\Server2\obj\Debug\Server2.csproj.CopyComplete
+C:\Users\student.LAN\source\repos\Laba\Server2\obj\Debug\Server2.exe
+C:\Users\student.LAN\source\repos\Laba\Server2\obj\Debug\Server2.pdb
+C:\Users\student.LAN\source\repos\Laba\Server2\obj\Debug\Server2.Migrations.FirstMigration.resources
+C:\Users\student.LAN\source\repos\Laba\Server2\obj\Debug\Server2.csproj.GenerateResource.cache
+C:\Users\student.LAN\source\repos\Laba\Server2\obj\Debug\Server2.Migrations.SecondMigration.resources

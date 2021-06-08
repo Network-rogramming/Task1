@@ -1,0 +1,7 @@
+C:\Users\student.LAN\source\repos\Laba\Client\bin\Debug\Client.exe.config
+C:\Users\student.LAN\source\repos\Laba\Client\bin\Debug\Client.exe
+C:\Users\student.LAN\source\repos\Laba\Client\bin\Debug\Client.pdb
+C:\Users\student.LAN\source\repos\Laba\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\student.LAN\source\repos\Laba\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\student.LAN\source\repos\Laba\Client\obj\Debug\Client.exe
+C:\Users\student.LAN\source\repos\Laba\Client\obj\Debug\Client.pdb
